@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sindhu N R
 
 
-- 🔭 I’m currently working on web based projects
-- 🌱 I’m currently learning java
+- 🔭 I’m currently working on Web based Projects
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on informative and innovative projects
 - 📫 How to reach me: sindhu.umaramesh04@gmail.com
 
